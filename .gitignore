@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Local database
+sales.db
+
+# Python cache and test files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+
+*.swp
